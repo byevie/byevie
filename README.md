@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: 
-<img src="https://img.shields.io/badge/PhotoShop-rightgrey?style=for-the-badge&logo=Adobe Photoshop&logoColor=31A8FF"/>
-<img src="https://img.shields.io/badge/Illustrator-rightgrey?style=for-the-badge&logo=Adobe Illustrator&logoColor=FF9A00"/>
-<img src="https://img.shields.io/badge/HTML-rightgrey?style=for-the-badge&logo=HTML5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS-rightgrey?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/JavaScript-rightgrey?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/PhotoShop-white?style=for-the-badge&logo=Adobe Photoshop&logoColor=31A8FF"/>
+<img src="https://img.shields.io/badge/Illustrator-white?style=for-the-badge&logo=Adobe Illustrator&logoColor=FF9A00"/>
+<img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=HTML5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>
 - ⚡ Fun fact: ...
