@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></h6>
 </div>
-
+<div align="center">
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=byevie&show_icons=true&theme=dark"
@@ -35,3 +35,4 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=byevie&show_icons=true" />
 </picture>
+</div>
