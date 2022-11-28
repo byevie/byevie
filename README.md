@@ -11,5 +11,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: 
-<img src="https://img.shields.io/badge/JavaScript-Yellow?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/PhotoShop-grey?style=for-the-badge&logo=PhotoShop&logoColor=31A8FF"/>
+<img src="https://img.shields.io/badge/Illustrator-grey?style=for-the-badge&logo=Illustrator&logoColor=FF9A00"/>
+<img src="https://img.shields.io/badge/HTML-grey?style=for-the-badge&logo=HTML&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS-grey?style=for-the-badge&logo=CSS&logoColor=000000"/>
+<img src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>
 - ⚡ Fun fact: ...
