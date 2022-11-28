@@ -23,5 +23,5 @@
   <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></h6>
 </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byevie&layout=compact)](https://github.com/byevie/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeive&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byevie&layout=compact)](https://github.com/byevie/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeive&show_icons=true&theme=transparent)
