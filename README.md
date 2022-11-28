@@ -1,7 +1,7 @@
-### Hi there 👋
+### ✨**byevie/byevie** `README.md`✨
 
-**byevie/byevie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!-- **byevie/byevie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ -->
 Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on ...
